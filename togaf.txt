@@ -1,0 +1,64 @@
+========================================================================================================================================================================
+========================================================================================================================================================================
+
+									TOGAF
+
+========================================================================================================================================================================
+========================================================================================================================================================================
+- TOGAF = The Open Group Architecture Framework
+
+- The Open Group (the organization that owns and maintains TOGAF)
+
+
+
+TOGAF Book
+========================================================================================================================================================================
+- TOGAF Standard (Official Reference) = The TOGAF® Standard, 10th Edition
+- TOGAF® Enterprise Architecture Foundation Study Guide
+- TOGAF® Enterprise Architecture Practitioner Study Guide
+
+
+
+
+
+
+TOGAF Book - 10th Edition
+========================================================================================================================================================================
+
+TOGAF Standard 10th Edition
+│
+├── Part 1: Introduction & Core Concepts   ← Your uploaded book
+│
+├── Part 2: Architecture Development Method (ADM)
+│
+├── Part 3: Architecture Content
+│
+├── Part 4: Architecture Capability & Governance
+│
+├── Series Guides
+│   ├── Business Architecture
+│   ├── Security Architecture
+│   ├── Agile Architecture
+│   ├── Value Streams
+│   └── etc.
+
+
+
+
+
+
+
+TOGAF Exam Levels:
+========================================================================================================================================================================
+| Level | Exam                                                |								 |
+| ----- | --------------------------------------------------- |  ------------------------------------------------------- |
+|   1   | TOGAF Enterprise Architecture Foundation (Part 1)   |  TOGAF Enterprise Architecture Foundation certified	 |
+|   2   | TOGAF Enterprise Architecture Practitioner (Part 2) |  TOGAF Enterprise Architecture Practitioner certified	 |
+
+| Exam                        | Purpose                						    					       		  	        |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| TOGAF Foundation (Part 1)   | Tests your understanding of TOGAF concepts, terminology, ADM, architecture domains, governance, and basic principles			|	
+| TOGAF Practitioner (Part 2) | Tests your ability to apply TOGAF in real-world scenarios, including ADM usage, tailoring, governance, and architecture development	|
+
+
+- You can also take a combined exam: Combined TOGAF EA Part 1 + Part 2
